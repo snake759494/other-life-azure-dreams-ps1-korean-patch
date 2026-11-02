@@ -1,0 +1,24 @@
+# 게임 원본·산출물 (배포하지 않음)
+*.bin
+*.BIN
+*.cue
+*.xdelta
+*.47
+orig/
+text/
+duck/
+tmp/
+release/
+tools/movie_segs.json
+
+# 글꼴·외부 실행 파일·이미지
+*.ttf
+*.otf
+*.exe
+*.dll
+*.png
+*.sav
+
+# 파이썬
+__pycache__/
+*.pyc

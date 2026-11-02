@@ -1,0 +1,17 @@
+{
+ "version": "v1.0",
+ "date": "2026-11-02",
+ "game": "Other Life Azure Dreams (Japan) / SLPM-86047 / PS1 (CD, BIN/CUE 단일 트랙)",
+ "asset": "OtherLifeAzureDreams_PS1_KO_v1.0.xdelta",
+ "asset_size": 25841265,
+ "asset_sha256": "f93ff0a7595b78e9b228e6eb5389e8c44891ee17b73f6f73978fd4d8bd9a71b7",
+ "xdelta_options": "xdelta3 -e -0 -S none -A (no compression, no secondary compression, no application header)",
+ "source_bin_size": 546609504,
+ "source_bin_md5": "3c8073be475eae2d870f9ca1f122d50b",
+ "source_bin_sha1": "51c7eff6c516ed21dae58fcaf29711dace9b5e1a",
+ "source_bin_sha256": "0cecb1ba798e773797ee0a89c25202e92849ba162bbe84676759dec347760bc8",
+ "output_bin_size": 546609504,
+ "output_bin_md5": "37b364ef0c11b9db3175a63a7c557288",
+ "output_bin_sha1": "dde725a499f837b6ab5b57aca69d74f72eebb912",
+ "output_bin_sha256": "5ab9da63f6bae8f6c3ae8e9280ecb5e92e98848d5947ea3d051c0968bf9d768e"
+}
